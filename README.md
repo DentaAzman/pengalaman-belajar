@@ -10,3 +10,10 @@ Belajar kelas Belajar Git dengan GitHub. (65%)
 * Belajar mengubah tampilan menggunakan format markdown.
 * Belajar merilis dokumentasi pengalaman belajar.
 * Belajar Git Branches
+
+**23 Februari 2024**  <br>
+Belajar kelas Belajar Git dengan GitHub. (100%)
+* Belajar Kolaborasi dengan Tim.
+* Belajar Studi Kasus Kolaborasi dengan Tim.
+* Belajar GitHub sebagai Portofolio.
+* Mengerjakan ujian akhir untuk menilai kemahiran diri.
